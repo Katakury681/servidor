@@ -1,2 +1,2 @@
-# servidor
+# delete
 minecraft
